@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/StevenGazi/CSE100Lab5.svg?token=Mae7rwsHvVb1SSKeadXz&branch=master)](https://travis-ci.com/StevenGazi/CSE100Lab5)
+[![Build Status](https://travis-ci.org/StevenGazi/CSE100Lab5.svg?branch=master)](https://travis-ci.org/StevenGazi/CSE100Lab5)
